@@ -1,0 +1,32 @@
+CPSC581 PROJECT 3
+
+***********************
+CREDITS
+***********************
+
+All credit to the following:
+
+Code Tutorial:
+- https://channel9.msdn.com/Blogs/2p-start/Gesture-Control-with-Kinect-and-Unity-made-easy
+
+Kinect v2 SDK:
+- http://peted.azurewebsites.net/kinect-4-windows-v2-unity-3d/
+
+Assets:
+- Forest Set: https://www.assetstore.unity3d.com/en/#!/content/70568
+
+Music:
+- Calm Yoga Music: https://www.youtube.com/watch?v=FM0CPMpGxjQ
+
+Sounds:
+- Bird 1: http://soundbible.com/1974-Falcon.html
+- Bird 2: http://soundbible.com/1240-Baby-Chicks.html
+- Bird 3: http://soundbible.com/1965-Merlin.html
+
+Pictures: 
+- Backdrop 1: http://www.hdwallpaperspulse.com/wp-content/uploads/2013/03/animated_background_1.jpg
+- Backdrop 2: http://dodskypict.com/D/Beautiful-Night-Sky-Wallpaper-On-Wallpaper-Hd-21.jpg
+- Backdrop 3: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJ18oC5bkEx1m1Pt3BBaC5HG824l0PmZLICiCm34d-CQ128Ja
+- Backdrop 4: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6l7g3RoU_sljS5prsIQfsXy85Vc6MZyKP1Ko7ITDozCdrwEl7g
+- Texture 1: https://dirttwister.com/images/reflex/wiki/Kingston_rnd1_dirt.jpg
+- Texture 2: https://www.textures.com/system/gallery/photos/Nature/Grass/50182/Grass0130_1_270.jpg

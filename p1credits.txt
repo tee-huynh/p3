@@ -1,0 +1,30 @@
+CPSC581 PROJECT 1
+
+***********************
+CREDITS
+***********************
+
+All credit to the following:
+
+Code:
+- Calculating Heart Rate: https://github.com/Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor
+- Sending data from Arduino Serial Port to a C Program: https://www.youtube.com/watch?v=TNLp5UV0dMI
+
+“Reward” Music:
+- Luis Fonsi, Despacito: https://www.youtube.com/watch?v=kJQP7kiw5Fk
+- Caravan Palace, Lone Digger: https://www.youtube.com/watch?v=UbQgXeY_zi4
+- Eminem, Rap God: https://www.youtube.com/watch?v=XbGs_qK2PQA
+
+“Punishment” Music:
+- Recorded myself
+
+Instrumentals:
+- Taylor Swift, Shake it Off: https://www.youtube.com/watch?v=TanVtB8i_dY
+- Luis Fonsi, Despacito: https://www.youtube.com/watch?v=Q4HmS-8FHog
+- Pharrell Williams, Happy: https://www.youtube.com/watch?v=bSgl08QkR-U
+
+"Victory" Music:
+- https://www.youtube.com/watch?v=rlGF5ma3gdA
+
+Quotes: 
+- Text to Speech Converter: https://ttsreader.com

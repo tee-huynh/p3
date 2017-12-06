@@ -1,0 +1,23 @@
+The MIA Button
+
+Task:
+
+Create a button that represents another student in class (your "client"). Your client should recognize themselves in the thing you create, and be delighted.
+
+User:
+
+My "client" Mia, is a student who loves all things cute and pastel. She loves playing video games like Animal Crossing, Stardew Valley, and Harvest Moon and she has other hobbies that include cosplay and arts and crafts. Mia is also currently learning Japanese and has even visited Japan!
+
+Based on all these things that delight her, I came up with a design that incorporates many of her likes and also serves as a tool to help her with her Japanese studies.
+
+Design:
+
+After the interview with Mia, I came up with 10 simple button ideas that reflected things she liked. Half were purely visual designs while the other half were buttons with actual functions.
+
+
+Refinement:
+
+Change:
+
+Result:
+

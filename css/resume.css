@@ -1,0 +1,159 @@
+h1 { 
+  color: #30332E; 
+  font-family: 'Trocchi', sans-serif; 
+  font-size: 124px; 
+  font-weight: 300; 
+  line-height: 58px;
+  letter-spacing: 16px;
+  text-align: center; 
+}
+
+h2 { 
+  color: #ffb7c3; 
+  font-family: 'Trocchi', sans-serif; 
+  font-size: 30px; 
+  font-weight: 300; 
+  line-height: 40px; 
+  margin: 0 0 40px; 
+  letter-spacing: 10px;
+  text-align: center; 
+  margin-top: -1em;
+}
+
+h3 { 
+  color: #30332E; 
+  font-family: 'Courier New', sans-serif; 
+  font-size: 20px; 
+  font-weight: 300; 
+  line-height: 30px; 
+  margin: 0 0 20px; 
+  letter-spacing: 5px;
+  text-align: justify; 
+  margin-left: 25em;
+  margin-right: 7em;
+  margin-top: -11em;
+}
+
+h4 { 
+  color: #30332E; 
+  font-family: 'Trocchi', sans-serif; 
+  font-size: 80px; 
+  font-weight: 300; 
+  line-height: 58px;
+  letter-spacing: 16px;
+  text-align: center; 
+}
+
+
+p { 
+  color: #6852f06; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-size: 14px;
+  line-height: 24px; 
+  letter-spacing: 2px;
+  margin: 0 0 24px; text-align: justify; 
+  text-justify: inter-word; 
+}
+
+#resume {
+  height:175px;
+  width:60px;
+  margin:0 auto;
+  float: left;
+  overflow: hidden;
+}
+
+#resume img {
+  position:absolute;
+  margin-top:-1em;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  right: 11.26cm;
+}
+
+#resume img.top:hover {
+  opacity:0;
+}
+
+#projects {
+  height:175px;
+  width:60px;
+  margin:0;float: 
+  left;
+                overflow: hidden;
+}
+
+#projects img {
+  position:absolute;
+  margin-top:-1em;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  right: 6.63cm;
+}
+
+#projects img.top:hover {
+  opacity:0;
+}
+
+#home {
+  height:175px;
+  width:60px;
+}
+
+#home img {
+  position:absolute;
+  right: 15.89cm;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+
+  margin-top: -1em;
+
+}
+
+#home img.top:hover {
+  opacity:0;
+}
+
+#contact {
+  height:175px;
+  width:60px;
+}
+
+#contact img {
+  position:absolute;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  right: 2cm;
+  margin-top: -12em;
+
+}
+
+#contact img.top:hover {
+  opacity:0;
+}
+
+#download {
+  height:250px;
+  width:250px;
+}
+
+#download img {
+  position:absolute;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  margin-top: -14em;
+}
+
+#download img.top:hover {
+  opacity:0;
+}

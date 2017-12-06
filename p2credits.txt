@@ -1,0 +1,32 @@
+CPSC581 PROJECT 2
+
+***********************
+CREDITS
+***********************
+
+All credit to the following:
+
+Code:
+- Kevin Ta's NetworkIt and Google Cardboard templates: https://github.com/kevinta893/NetworkIt/releases
+
+Assets:
+- Android Speech Recognizer: https://www.assetstore.unity3d.com/en/#!/content/47520
+- Corgi Model & Animations: https://www.assetstore.unity3d.com/en/#!/content/70082
+
+Music:
+- MainScene Music: https://www.youtube.com/watch?v=UKwSQSFN4Nw
+- Memory Music: https://www.youtube.com/watch?v=ydlPbSCXfck
+
+Sounds:
+- Panting: http://soundbible.com/2147-Dog-Panting-Fast.html
+- Barking: http://soundbible.com/2136-Puppy-Barking.html
+- Angry: http://soundbible.com/71-Dog-Growling-And-Barking.html
+- Slurping: http://soundbible.com/1527-Slurp.html
+- Dog Toy: http://soundbible.com/186-Dog-Toy-Squeaks.html
+- Peeing: http://soundbible.com/167-Girl-Pees-In-Toilet.html
+
+Video:
+- https://www.youtube.com/watch?v=e9vYGBx9w98
+
+Pictures:
+- Persona: https://previews.123rf.com/images/zu1u/zu1u1204/zu1u120400004/13146091-Young-woman-hugging-her-cute-corgi-dog-Stock-Vector.jpg
